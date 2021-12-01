@@ -10,6 +10,12 @@ A photoshop web app deployed in streamlit having various filters and image proce
 - [Devagopal AM](https://github.com/Devagopal2255)
 - [Vishal Menon](https://github.com/Caster12)
 
+- [Features](#Features)
+- [Installation](#Installation-steps)
+- [Screenshots](#Screenshots)
+- [Demo](#demo)
+- [Examples](#examples)
+
 
 ## Features
 
@@ -70,11 +76,6 @@ A photoshop web app deployed in streamlit having various filters and image proce
 ```
 
 
-
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## Screenshots
