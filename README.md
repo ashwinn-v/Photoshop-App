@@ -14,7 +14,7 @@ A photoshop web app deployed in streamlit having various filters and image proce
 ## Features
 
 - Filter Modules
-  -  Bright
+  - Bright
   - Detail Enhance
   - Invert
   - Summer
