@@ -87,7 +87,7 @@ High Contrast:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a1.png"<br>
+src="MDimgs/a1.png"<br>
 </p>
 
 
@@ -96,7 +96,7 @@ Bright:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a3.png"<br>
+src="MDimgs/a3.png"<br>
 </p>
 
 
@@ -107,12 +107,12 @@ Detail Enhancement:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a4.png"<br>
+src="MDimgs/a4.png"<br>
 </p>
  
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a5.png"<br>
+src="MDimgs/a5.png"<br>
 </p>
  
 
@@ -125,7 +125,7 @@ Invert:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a6.png"<br>
+src="MDimgs/a6.png"<br>
 </p>
  
    
@@ -137,7 +137,7 @@ Summer:
 	 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a7.png"<br>
+src="MDimgs/a7.png"<br>
 </p>
  
 
@@ -147,7 +147,7 @@ Winter:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a8.png"<br>
+src="MDimgs/a8.png"<br>
 </p>
  
 	
@@ -159,7 +159,7 @@ Daylight:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a9.png"<br>
+src="MDimgs/a9.png"<br>
 </p>
  
 
@@ -172,7 +172,7 @@ Sepia:
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a10.png"<br>
+src="MDimgs/a10.png"<br>
 </p>
 
 	   
@@ -185,7 +185,7 @@ Note: The splash filter only works successfully for images with objects having h
  
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a11.png"<br>
+src="MDimgs/a11.png"<br>
 </p>
 
 
@@ -196,7 +196,7 @@ Emboss:
 	(Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a12.png"<br>
+src="MDimgs/a12.png"<br>
 </p>
 	   
 
@@ -207,7 +207,7 @@ Note: This filter also consists of 2 other input parameters the noise and thresh
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a13.png"<br>
+src="MDimgs/a13.png"<br>
 </p>
 
         
@@ -220,7 +220,7 @@ Dual Tone:
    
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a14.png"<br>
+src="MDimgs/a14.png"<br>
 </p>
 
 
@@ -233,7 +233,7 @@ Pencil Drawing:
 	(Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a15.png"<br>
+src="MDimgs/a15.png"<br>
 </p>
 	  
 
@@ -243,7 +243,7 @@ Comic (Using K-Means):
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a16.png"<br>
+src="MDimgs/a16.png"<br>
 </p>
 
 
@@ -257,7 +257,7 @@ Input Types Accepted: jpg, jpeg, png
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a18.png"<br>
+src="MDimgs/a18.png"<br>
 </p>
 
 
@@ -270,7 +270,7 @@ Input Types Accepted: jpg, jpeg, png
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a19.png"<br>
+src="MDimgs/a19.png"<br>
 </p>
 
 
@@ -280,7 +280,7 @@ Note: This module takes 2 images as its inputs: the first benign our original im
 
    <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a20.png"<br>
+src="MDimgs/a20.png"<br>
 </p>
       
 
@@ -293,7 +293,7 @@ Input Types Accepted: jpg, jpeg, png
 
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a21.png"<br>
+src="MDimgs/a21.png"<br>
 </p>
 
                
@@ -303,20 +303,20 @@ Input Types Accepted: jpg, jpeg, png
 (Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a22.png"<br>
+src="MDimgs/a22.png"<br>
 </p>
 
 Edge and contour module
 <p align="center">           
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a23.png"<br>
+src="MDimgs/a23.png"<br>
 </p>
 
 Crop Image Module:
 Input Types Accepted: jpg, jpeg, png
 <p align="center">           
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a25.png"<br>
+src="MDimgs/a25.png"<br>
 </p>
 
 
@@ -325,5 +325,5 @@ Face and Feature Detection Module:
 Input Types Accepted: jpg, jpeg, png
 <p align="center">           
 <img style="display: block; margin: auto;"
-src="/Users/ashwinv/Documents/SEM5/Signal/project/code/MDimgs/a24.png"<br>
+src="MDimgs/a24.png"<br>
 </p>
