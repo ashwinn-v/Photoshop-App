@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 import copy
 def app():
-    DEMO_IMAGE = 'imgs/deva.jpeg'
+    DEMO_IMAGE = 'imgs/Tiger.jpeg'
     SP_DEMO_IMAGE = 'imgs/deva.jpeg'
     SP_IMAGE = 'imgs/deva.jpeg'   
 
