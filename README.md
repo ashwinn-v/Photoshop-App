@@ -94,7 +94,7 @@ src="MDimgs/a1.png"<br>
 </p>
 
 
-Bright:
+#### Bright:
 	Input Types Accepted: jpg, jpeg, png
 
 <p align="center">
