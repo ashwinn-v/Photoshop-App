@@ -5,9 +5,9 @@ import cv2
 import numpy as np
 import copy
 def app():
-    DEMO_IMAGE = '/Users/ashwinv/Documents/SEM5/Signal/project/code/imgs/deva.jpeg'
-    SP_DEMO_IMAGE = '/Users/ashwinv/Documents/SEM5/Signal/project/code/imgs/deva.jpeg'
-    SP_IMAGE = '/Users/ashwinv/Documents/SEM5/Signal/project/code/imgs/deva.jpeg'   
+    DEMO_IMAGE = 'imgs/deva.jpeg'
+    SP_DEMO_IMAGE = 'imgs/deva.jpeg'
+    SP_IMAGE = 'imgs/deva.jpeg'   
 
     def load_image():
         img_file_buffer = st.file_uploader("Upload an image", type=[ "jpg", "jpeg",'png'])
