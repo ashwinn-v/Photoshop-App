@@ -5,7 +5,7 @@ import numpy as np
 import copy
 
 def app():
-    DEMO_IMAGE = 'imgs/deva.jpeg'
+    DEMO_IMAGE = 'imgs/Tiger.jpg'
 
 
     def load_image(filename):

@@ -6,7 +6,7 @@ import copy
 
 
 def app():
-    DEMO_IMAGE = 'imgs/deva.jpeg'
+    DEMO_IMAGE = 'imgs/Person.jpg'
 
     def face_detection():
     
