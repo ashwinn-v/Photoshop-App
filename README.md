@@ -84,7 +84,7 @@ A photoshop web app deployed in streamlit having various filters and image proce
 
 ### Filter Modules:
 
-High Contrast:
+#### High Contrast:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -104,7 +104,7 @@ src="MDimgs/a3.png"<br>
 
 
 
-Detail Enhancement:
+#### Detail Enhancement:
 	Input Types Accepted: jpg, jpeg, png
 
 
@@ -122,7 +122,7 @@ src="MDimgs/a5.png"<br>
 
 
 
-Invert:
+#### Invert:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -133,7 +133,7 @@ src="MDimgs/a6.png"<br>
  
    
 
-Summer:
+#### Summer:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -144,7 +144,7 @@ src="MDimgs/a7.png"<br>
 </p>
  
 
-Winter:
+#### Winter:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -154,7 +154,7 @@ src="MDimgs/a8.png"<br>
 </p>
  
 	
-Daylight:
+#### Daylight:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 	
@@ -168,7 +168,7 @@ src="MDimgs/a9.png"<br>
 
 
 
-Sepia:
+#### Sepia:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -179,7 +179,7 @@ src="MDimgs/a10.png"<br>
 </p>
 
 	   
-Splash:
+#### Splash:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 Note: The splash filter only works successfully for images with objects having high contrast colors (Eg: Yellow and Blue). The image given below is a good example over which the splash filter works successfully.
@@ -194,7 +194,7 @@ src="MDimgs/a11.png"<br>
 
  
 
-Emboss:
+#### Emboss:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
@@ -203,7 +203,7 @@ src="MDimgs/a12.png"<br>
 </p>
 	   
 
-60s TV:
+#### 60s TV:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 Note: This filter also consists of 2 other input parameters the noise and threshold values. Our Webpage provides a slider widget to set these parameter values seamlessly. The image example given below shows the interface and outputs.
@@ -215,7 +215,7 @@ src="MDimgs/a13.png"<br>
 
         
 
-Dual Tone:
+#### Dual Tone:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -231,7 +231,7 @@ src="MDimgs/a14.png"<br>
 
 	   
 
-Pencil Drawing:
+#### Pencil Drawing:
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
@@ -240,7 +240,7 @@ src="MDimgs/a15.png"<br>
 </p>
 	  
 
-Comic (Using K-Means):
+#### Comic (Using K-Means):
 	Input Types Accepted: jpg, jpeg, png
 	(Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -254,7 +254,7 @@ src="MDimgs/a16.png"<br>
 
 	 
 
-Image to Sketch Module:
+#### Image to Sketch Module:
 Input Types Accepted: jpg, jpeg, png
 (Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -266,7 +266,7 @@ src="MDimgs/a18.png"<br>
 
        
 
-Image inpainting Module:
+#### Image inpainting Module:
 Input Types Accepted: jpg, jpeg, png
 (Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -289,7 +289,7 @@ src="MDimgs/a20.png"<br>
 
 
 
-Doc Scanner Module:
+#### Doc Scanner Module:
 Input Types Accepted: jpg, jpeg, png
 (Webpage interface is same as Bright and Detail enhancement pages)
 
@@ -301,7 +301,7 @@ src="MDimgs/a21.png"<br>
 
                
 
-Add Title to Image Module:
+#### Add Title to Image Module:
 Input Types Accepted: jpg, jpeg, png
 (Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
@@ -309,13 +309,13 @@ Input Types Accepted: jpg, jpeg, png
 src="MDimgs/a22.png"<br>
 </p>
 
-Edge and contour module
+#### Edge and contour module
 <p align="center">           
 <img style="display: block; margin: auto;"
 src="MDimgs/a23.png"<br>
 </p>
 
-Crop Image Module:
+#### Crop Image Module:
 Input Types Accepted: jpg, jpeg, png
 <p align="center">           
 <img style="display: block; margin: auto;"
@@ -324,7 +324,7 @@ src="MDimgs/a25.png"<br>
 
 
 
-Face and Feature Detection Module:
+#### Face and Feature Detection Module:
 Input Types Accepted: jpg, jpeg, png
 <p align="center">           
 <img style="display: block; margin: auto;"
