@@ -5,7 +5,7 @@ import numpy as np
 import copy
 
 def app():
-    DEMO_IMAGE = '/Users/ashwinv/Documents/SEM5/Signal/project/code/imgs/deva.jpeg'
+    DEMO_IMAGE = 'imgs/deva.jpeg'
 
 
     def load_image(filename):
