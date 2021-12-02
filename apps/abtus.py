@@ -14,17 +14,17 @@ def app():
     with col1:
         st.subheader("Ashwin V")
         st.markdown('*AM.EN.U4AIE19018*')
-        st.image("/Users/ashwinv/Documents/SEM5/Signal/project/code/propics/ash.jpg")
+        st.image("propics/ash.jpg")
 
     with col2:
         st.subheader("Devagopal AM")
         st.markdown('*AM.EN.U4AIE19025*')
-        st.image("/Users/ashwinv/Documents/SEM5/Signal/project/code/propics/deva.jpg")
+        st.image("propics/deva.jpg")
 
     with col3:
         st.subheader("Vishal Menon")
         st.markdown('*AM.EN.U4AIE19070*')
-        st.image("/Users/ashwinv/Documents/SEM5/Signal/project/code/propics/Vishal.png")
+        st.image("propics/Vishal.png")
 
     st.markdown('<center>Department of Computer Science and Engineering </center>', unsafe_allow_html=True)
     st.markdown("<center> Amrita Viswa Vidyapeetham </center>", unsafe_allow_html=True)
