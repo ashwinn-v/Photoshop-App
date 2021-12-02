@@ -2,7 +2,7 @@ altair==4.1.0
 appnope==0.1.2
 
 astor==0.8.1
-
+libgl1
 async-generator==1.10
 attrs==21.2.0
 backcall==0.2.0
