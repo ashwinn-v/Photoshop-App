@@ -7,7 +7,7 @@ A photoshop web app deployed in streamlit having various filters and image proce
 ## Authors
 
 - [Ashwin V](https://github.com/ashwinn-v)
-- [Devagopal AM](https://github.com/Devagopal2255)
+- [Devagopal AM](https://github.com/Devagopal42)
 - [Vishal Menon](https://github.com/Caster12)
 
 ## Table of contents
