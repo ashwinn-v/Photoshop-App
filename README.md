@@ -14,8 +14,9 @@ A photoshop web app deployed in streamlit having various filters and image proce
 - [Features](#Features)
 - [Installation](#Installation-steps)
 - [Screenshots](#Screenshots)
-<!-- - [Demo](#demo) -->
 - [Examples](#examples)
+<!-- - [Demo](#demo) -->
+
 
 
 ## Features
