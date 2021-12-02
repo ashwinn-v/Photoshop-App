@@ -2,7 +2,13 @@
 # Photoshop Tool using Python and OpenCV
 
 A photoshop web app deployed in streamlit having various filters and image processing capabilities built using Python and OpenCV modules.
- 
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![issues](https://img.shields.io/github/issues/ashwinn-v/Photoshop-App)
+![forks](https://img.shields.io/github/forks/ashwinn-v/Photoshop-App)
+![stars](https://img.shields.io/github/stars/ashwinn-v/Photoshop-App)
+
+
 
 ## Authors
 
