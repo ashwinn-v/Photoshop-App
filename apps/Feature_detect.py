@@ -3,7 +3,7 @@ from PIL import Image
 import cv2 
 import numpy as np
 import copy
-DEMO_IMAGE = '/Users/ashwinv/Documents/SEM5/Signal/project/code/imgs/Tiger.jpg'
+DEMO_IMAGE = 'imgs/Tiger.jpg'
 
 def app():
 
