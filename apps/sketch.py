@@ -6,7 +6,7 @@ from PIL import Image
 import cv2
 
 
-DEMO_IMAGE = '/Users/ashwinv/Documents/SEM5/Signal/project/code/imgs/deva.jpeg'
+DEMO_IMAGE = 'imgs/deva.jpeg'
 def app():
     @st.cache
     def img2sketch(photo, k_size):
