@@ -255,8 +255,8 @@ src="MDimgs/a16.png"<br>
 	 
 
 #### Image to Sketch Module:
-Input Types Accepted: jpg, jpeg, png
-(Webpage interface is same as Bright and Detail enhancement pages)
+	Input Types Accepted: jpg, jpeg, png
+	(Webpage interface is same as Bright and Detail enhancement pages)
 
 <p align="center">
 <img style="display: block; margin: auto;"
@@ -267,8 +267,8 @@ src="MDimgs/a18.png"<br>
        
 
 #### Image inpainting Module:
-Input Types Accepted: jpg, jpeg, png
-(Webpage interface is same as Bright and Detail enhancement pages)
+	Input Types Accepted: jpg, jpeg, png
+	(Webpage interface is same as Bright and Detail enhancement pages)
 
 
 <p align="center">
@@ -290,8 +290,8 @@ src="MDimgs/a20.png"<br>
 
 
 #### Doc Scanner Module:
-Input Types Accepted: jpg, jpeg, png
-(Webpage interface is same as Bright and Detail enhancement pages)
+	Input Types Accepted: jpg, jpeg, png
+	(Webpage interface is same as Bright and Detail enhancement pages)
 
 
 <p align="center">
@@ -302,8 +302,8 @@ src="MDimgs/a21.png"<br>
                
 
 #### Add Title to Image Module:
-Input Types Accepted: jpg, jpeg, png
-(Webpage interface is same as Bright and Detail enhancement pages)
+	Input Types Accepted: jpg, jpeg, png
+	(Webpage interface is same as Bright and Detail enhancement pages)
 <p align="center">
 <img style="display: block; margin: auto;"
 src="MDimgs/a22.png"<br>
@@ -316,7 +316,7 @@ src="MDimgs/a23.png"<br>
 </p>
 
 #### Crop Image Module:
-Input Types Accepted: jpg, jpeg, png
+	Input Types Accepted: jpg, jpeg, png
 <p align="center">           
 <img style="display: block; margin: auto;"
 src="MDimgs/a25.png"<br>
@@ -325,7 +325,7 @@ src="MDimgs/a25.png"<br>
 
 
 #### Face and Feature Detection Module:
-Input Types Accepted: jpg, jpeg, png
+	Input Types Accepted: jpg, jpeg, png
 <p align="center">           
 <img style="display: block; margin: auto;"
 src="MDimgs/a24.png"<br>
