@@ -7,6 +7,7 @@ from PIL import Image
 import cv2
 import numpy as np
 
+DEMO_IMAGE = 'imgs/Tiger.jpg'
 
 def app():
     @st.cache
