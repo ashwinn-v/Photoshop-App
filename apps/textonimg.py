@@ -24,12 +24,15 @@ def app():
 
 
         return image
-
     st.title('Add Title using opencv')
     img_file_buffer = st.file_uploader("Upload an image", type=[ "jpg", "jpeg",'png'])
+    
     if img_file_buffer is not None:
-            image = np.array(Image.open(img_file_buffer))
-
+        image = np.array(Image.open(img_file_buffer))
+    else:
+        demo_image = DEMO_IMAGE
+        image = np.array(Image.open(demo_image))
+        
     st.image(image, caption=f"Original Image",use_column_width= True)
 
     useWH = st.checkbox('Add a Title')
