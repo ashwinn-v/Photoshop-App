@@ -319,6 +319,14 @@ def app():
     if selected_box == 'None':
         st.title('Image Filters')
         ## Add bulletins
+        st.subheader("Select from the following filters", anchor=None)
+        st.header(" &#128072", anchor=None)
+
+        st.subheader("Available Filters", anchor=None)
+
+        st.markdown('<ul> <li> Bright <li>  Detail Enhance  <li> Invert<li> Summer   <li> Winter  <li> Daylight <li> High Contrast<li> Sepia  <li> Splash<li> Emboss   <li> 60s TV  <li> Dual tone <li> Cartoon <li>Pencil Drawing <li>Comic </ul>', unsafe_allow_html=True)
+      
+
 
     if selected_box == 'Bright':
         st.title('Bright Filter')
@@ -465,14 +473,8 @@ def app():
         st.title('Comic Filter Using K-Means')
         image = load_image()
         res = comic(image)
-    st.subheader("Select from the following filters", anchor=None)
-    st.header(" &#128072", anchor=None)
 
-    st.subheader("Available Filters", anchor=None)
-
-    st.markdown('<ul> <li> Bright <li>  Detail Enhance  <li> Invert<li> Summer   <li> Winter  <li> Daylight <li> High Contrast<li> Sepia  <li> Splash<li> Emboss   <li> 60s TV  <li> Dual tone <li> Cartoon <li>Pencil Drawing <li>Comic </ul>', unsafe_allow_html=True)
-      
-
+        
 
     
     # if selected_box == 'Sketch':
