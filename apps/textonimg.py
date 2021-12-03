@@ -1,4 +1,3 @@
-
 import streamlit as st
 import numpy as np
 import pandas as pd
@@ -44,5 +43,4 @@ def app():
         
         resized_image = imgtext(image , text)
 
-        st.image(
-        resized_image)
+        st.image(resized_image)
