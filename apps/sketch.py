@@ -53,13 +53,7 @@ def app():
 
         st.image(
         resized_image, caption=f"Sketched image", use_column_width=True)
-    else:
-        k_size = 5
-        
-        resized_image = img2sketch(image , k_size)
 
-        st.image(
-        resized_image, caption=f"Sketched image", use_column_width=True)
 
 
         
