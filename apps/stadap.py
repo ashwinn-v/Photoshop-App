@@ -43,9 +43,5 @@ def app():
             st.image(
             newimg, caption=f"Enhanced image", use_column_width=False)
 
-    else:
-            newimg = adap(image)
 
-            st.image(
-            newimg, caption=f"Enhanced image", use_column_width=False)
             
