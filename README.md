@@ -3,6 +3,11 @@
 
 A photoshop web app deployed in streamlit having various filters and image processing capabilities built using Python and OpenCV modules.
 
+#### Try it:
+```
+https://share.streamlit.io/ashwinn-v/photoshop-app/main/app.py
+```
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![issues](https://img.shields.io/github/issues/ashwinn-v/Photoshop-App)
 ![forks](https://img.shields.io/github/forks/ashwinn-v/Photoshop-App)
