@@ -6,7 +6,7 @@ from PIL import Image
 import cv2
 
 
-DEMO_IMAGE = 'imgs/Tiger.jpeg'
+DEMO_IMAGE = 'imgs/deva.jpeg'
 def app():
     @st.cache
     def img2sketch(photo, k_size):
@@ -52,6 +52,14 @@ def app():
         resized_image = img2sketch(image , k_size)
 
         st.image(
-        resized_image, caption=f"Drawing image", use_column_width=True)
+        resized_image, caption=f"Sketched image", use_column_width=True)
+    else:
+        k_size = 5
+        
+        resized_image = img2sketch(image , k_size)
+
+        st.image(
+        resized_image, caption=f"Sketched image", use_column_width=True)
+
 
         

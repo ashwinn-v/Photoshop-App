@@ -12,6 +12,7 @@ import cv2
 # image input with applied parameters
 # to convert the image in grayscale
 def app():
+    DEMO_IMAGE = 'imgs/scannedimg.jpeg'
     @st.cache
     def adap(img):
         img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -29,15 +30,22 @@ def app():
     img_file_buffer = st.file_uploader("Upload a page ", type=[ "jpg", "jpeg",'png'])
     if img_file_buffer is not None:
             image = np.array(Image.open(img_file_buffer))
+    else:
+            demo_image = DEMO_IMAGE
+            image = np.array(Image.open(demo_image))
 
     st.image(image, caption=f"Uploaded page",use_column_width= False)
 
     if st.button("Enhance image"):
-        
-        newimg = adap(image)
-
-        st.image(
-        newimg, caption=f"Enhanced image", use_column_width=False)
             
+            newimg = adap(image)
 
+            st.image(
+            newimg, caption=f"Enhanced image", use_column_width=False)
 
+    else:
+            newimg = adap(image)
+
+            st.image(
+            newimg, caption=f"Enhanced image", use_column_width=False)
+            
