@@ -42,9 +42,6 @@ def app():
 
                 newimg = inpaintt(image,mask)
                 st.image(newimg, caption=f"Inpainted Image",use_column_width= False)
-        else:
-                newimg = inpaintt(image,mask)
-                st.image(
-                newimg, caption=f"inpainted image", use_column_width=False)
+
 
 
